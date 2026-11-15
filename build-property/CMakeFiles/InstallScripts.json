@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/cat/gsb/uid3857/build-property/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/External/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/SPIRV/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/glslang/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/glslang/OSDependent/Unix/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/StandAlone/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-property/gtests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

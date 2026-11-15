@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/cat/gsb/uid3857/build-asan/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-asan/External/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-asan/SPIRV/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-asan/glslang/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-asan/glslang/OSDependent/Unix/cmake_install.cmake",
+		"/home/cat/gsb/uid3857/build-asan/StandAlone/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
